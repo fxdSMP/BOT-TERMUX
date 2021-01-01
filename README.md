@@ -105,7 +105,7 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/CRAFTID75)
+* [`Youtube Admin`](https://youtube.com/channel/UCZAZczoc890PV13Lz2CCmdw)
 * [`Instagram Admin`](belum ada)
 * [`WhatsApp Admin `](https://wa.me/+6281539336834)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
