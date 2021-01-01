@@ -1,2 +1,5 @@
 # BOT-TERMUX
 THIS SCRIPT IS FREE FOR TERMUX USERS !!
+
+
+Developer.gif
