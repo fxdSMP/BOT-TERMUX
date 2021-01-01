@@ -3,7 +3,7 @@ THIS SCRIPT IS FREE FOR TERMUX USERS !!
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Muhamad ID
 <p align="center">
-<img src="https://raw.githubusercontent.com/fxdSMP/fxdSMP.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/fxdSMP/BOT-TERMUX.jpg" width="230" height="230"/>
 </p>
 <br>
 
