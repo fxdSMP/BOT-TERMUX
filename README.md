@@ -1,7 +1,7 @@
 # BOT-TERMUX
 THIS SCRIPT IS FREE FOR TERMUX USERS !!
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Muhamad ID
 <p align="center">
 <img src="https://raw.githubusercontent.com/fxdSMP/main/fxdSMP.jpg" width="230" height="230"/>
 </p>
@@ -105,9 +105,9 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](https://www.youtube.com/channel/CRAFTID75)
+* [`Instagram Admin`](belum ada)
+* [`WhatsApp Admin `](https://wa.me/+6281539336834)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
