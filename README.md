@@ -1,13 +1,13 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com" width="230" height="230"/>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="😎MASLENT😎" src="https://img.shields.io/badge/ICHI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="❄️FROZEBOT❄️" src="https://img.shields.io/badge/ICHI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
@@ -27,11 +27,7 @@
 <details>
  
 </details>
-
-XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
-
-XXX WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+Bantu Donasi Gan Supaya Bisa update bot v;
 
 XX NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -70,13 +66,13 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](MAS LENT YT)
+* [`Youtube Admin`](https://yutube.com)
 * [`Instagram Admin`](https://instagram.com/_maslent11)
 * [`WhatsApp Admin `](https://wa.me/+628165466368)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
+* [`MAS LENT`](https://youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA)
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
