@@ -23,10 +23,14 @@
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
-<details>
- 
+<Bahan>
+
+* [`TERMUX`](https://play.google.com/store/apps/details?id=com.termux)
+
+
 </details>
 Bantu Donasi Gan Supaya Bisa update bot v;
+
 
 Thaks Untuk Bang Lent Saya Izin Modifikasi Bot Nya :D
 
