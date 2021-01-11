@@ -49,7 +49,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri MaslentGans.
+Script ini di modifikasi sama saya sendiri Mr.Virtex.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -65,7 +65,7 @@ Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi MASLENT`](08165466368) AUTHOR
-* [`Donasi ke Saya`](081539336834) Editir
+* [`Donasi ke Saya`](081539336834) EDITOR
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
